@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eight Ball", "Eight Ball\Eight Ball.csproj", "{B1C1FE43-7DE3-442B-B1E3-71EF288C97DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C1FE43-7DE3-442B-B1E3-71EF288C97DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C1FE43-7DE3-442B-B1E3-71EF288C97DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C1FE43-7DE3-442B-B1E3-71EF288C97DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C1FE43-7DE3-442B-B1E3-71EF288C97DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA2CDE77-6DEF-4EB1-8DB7-B2E58758661D}
+	EndGlobalSection
+EndGlobal
