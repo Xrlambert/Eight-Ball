@@ -67,6 +67,7 @@ namespace Eight_Ball
         {
             switch (answer)
             {
+                //fits the minimum of six options
                 case 1: return "Yes – definitely.";
                 case 2: return "It is certain.";
                 case 3: return "Without a doubt.";
