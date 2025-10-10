@@ -69,5 +69,23 @@ namespace Eight_Ball.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream popSfx {
+            get {
+                return ResourceManager.GetStream("popSfx", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream shakeSfx {
+            get {
+                return ResourceManager.GetStream("shakeSfx", resourceCulture);
+            }
+        }
     }
 }
